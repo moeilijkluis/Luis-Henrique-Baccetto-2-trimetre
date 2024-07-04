@@ -19,7 +19,7 @@ const perguntas = [
         ]
     },
     {
-        e3nunciado: "O primeiro jogo da série God of War foi lançado originalmente para PlayStation 3.",
+        enunciado: "O primeiro jogo da série God of War foi lançado originalmente para PlayStation 3.",
         alternativas: [
             {
                 texto: "Falso. O primeiro foi originalmente lançado para PlayStation2",
@@ -105,7 +105,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = "Em 2049...";
+    caixaPerguntas.textContent = "Respostas";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
