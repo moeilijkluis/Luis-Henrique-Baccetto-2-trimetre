@@ -14,7 +14,7 @@ const perguntas = [
             },
             {
                 texto: "Errado. O protagonista se chama Zeus",
-                falsa: "Falso"
+                afirmacao: "Falso"
             }
         ]
     },
