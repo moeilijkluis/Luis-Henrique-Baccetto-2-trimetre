@@ -9,11 +9,11 @@ const perguntas = [
         enunciado: "Kratos é o protagonista principal da série God of War",
         alternativas: [
             {
-                texto: "Verdadeiro",
+                texto: "Certo. O protagonista se chama Kratos",
                 afirmacao: "verdadeiro"
             },
             {
-                texto: "Falso",
+                texto: "Errado. O protagonista se chama Zeus",
                 falsa: "falso"
             }
         ]
@@ -22,11 +22,11 @@ const perguntas = [
         enunciado: "O primeiro jogo da série God of War foi lançado originalmente para PlayStation 3.",
         alternativas: [
             {
-                texto: "Falso. O primeiro foi originalmente lançado para PlayStation2",
+                texto: "Errado. O primeiro foi originalmente lançado para PlayStation2",
                 afirmacao: "verdadeiro"
             },
             {
-                texto: "Verdadeiro",
+                texto: "Certo. Foi lançado originalmente no PlayStation 3",
                 afirmacao: "falsa"
             }
         ]
@@ -35,11 +35,11 @@ const perguntas = [
         enunciado: "A ambientação principal dos jogos da série God of War é inspirada na mitologia grega.",
         alternativas: [
             {
-                texto: "Verdadeiro",
+                texto: "Certo. O jogo se passa na mitologia grega na versão antiga",
                 afirmacao: "verdeiro"
             },
             {
-                texto: "Falso",
+                texto: "Errado. Se passa pela mitologia brasileira",
                 afirmacao: "falso"
             }
         ]
@@ -48,11 +48,11 @@ const perguntas = [
         enunciado: "Em God of War (2018), Kratos viaja para a mitologia nórdica.",
         alternativas: [
             {
-                texto: "Verdadeiro.",
+                texto: "Correto, pois o jogo se passa pela mitologia nórdica",
                 afirmacao: "verdadeiro"
             },
             {
-                texto: "Falso.",
+                texto: "Errado. O jogo se passa pela mitologia grega",
                 afirmacao: "falso"
             }
         ]
@@ -61,11 +61,11 @@ const perguntas = [
         enunciado: "O principal instrumento de combate de Kratos é uma espada chamada Leviathan Axe.",
         alternativas: [
             {
-                texto: "Verdadeiro",
+                texto: "Ele usa um machado",
                 afirmacao: "verdadeiro"
             },
             {
-                texto: "Falso. Ele usa um arco",
+                texto: "Ele usa um arco",
                 afirmacao: "falso"
             }
         ]
