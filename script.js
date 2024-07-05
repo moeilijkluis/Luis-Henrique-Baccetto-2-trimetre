@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Verdadeiro",
-                afirmacao: "afirmação"
+                afirmacao: "verdadeiro"
             },
             {
                 texto: "Falso",
-                falsa: "falsa"
+                falsa: "falso"
             }
         ]
     },
@@ -23,7 +23,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Falso. O primeiro foi originalmente lançado para PlayStation2",
-                afirmacao: "afirmação"
+                afirmacao: "verdadeiro"
             },
             {
                 texto: "Verdadeiro",

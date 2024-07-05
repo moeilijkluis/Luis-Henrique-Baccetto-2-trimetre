@@ -1,4 +1,4 @@
-:root{
+0:root{
     --cor-fundo: #0961ad ;
     --cor-principal: #101fa7 ;
     --cor-secundaria: #212333; 
@@ -9,6 +9,7 @@
 
 body {
     background-color: var(--cor-fundo);
+    background-image: url('GOW.jpg');
     color: var(--cor-texto);
     display: flex;
     justify-content: center;
