@@ -36,11 +36,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Certo. O jogo se passa na mitologia grega na versão antiga",
-                afirmacao: "verdeiro"
+                afirmacao: "Verdeiro"
             },
             {
                 texto: "Errado. Se passa pela mitologia brasileira",
-                afirmacao: "falso"
+                afirmacao: "Falso"
             }
         ]
     },
@@ -49,11 +49,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Correto, pois o jogo se passa pela mitologia nórdica",
-                afirmacao: "verdadeiro"
+                afirmacao: "Verdadeiro"
             },
             {
                 texto: "Errado. O jogo se passa pela mitologia grega",
-                afirmacao: "falso"
+                afirmacao: "Falso"
             }
         ]
     },
@@ -62,11 +62,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Ele usa um machado",
-                afirmacao: "verdadeiro"
+                afirmacao: "Verdadeiro"
             },
             {
                 texto: "Ele usa um arco",
-                afirmacao: "falso"
+                afirmacao: "Falso"
             }
         ]
     },
