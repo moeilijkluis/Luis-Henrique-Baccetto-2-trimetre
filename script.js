@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Certo. O protagonista se chama Kratos",
-                afirmacao: "verdadeiro"
+                afirmacao: "Verdadeiro"
             },
             {
                 texto: "Errado. O protagonista se chama Zeus",
-                falsa: "falso"
+                falsa: "Falso"
             }
         ]
     },
@@ -23,11 +23,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Errado. O primeiro foi originalmente lançado para PlayStation2",
-                afirmacao: "verdadeiro"
+                afirmacao: "Verdadeiro"
             },
             {
                 texto: "Certo. Foi lançado originalmente no PlayStation 3",
-                afirmacao: "falsa"
+                afirmacao: "Falsa"
             }
         ]
     },
