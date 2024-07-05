@@ -21,7 +21,7 @@ body {
     background-color: var(--cor-principal);
     width: 90%;
     max-width: 600px;
-    text-align: center;
+    text-align: left;
     padding: 20px;
 }
 
