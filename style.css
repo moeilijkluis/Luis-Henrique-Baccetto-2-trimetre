@@ -1,8 +1,8 @@
-0:root{
-    --cor-fundo: #0961ad ;
-    --cor-principal: #101fa7 ;
-    --cor-secundaria: #212333; 
-    --cor-destaque: #2BDEFD;
+:root{
+    --cor-fundo: #ffffffec ;
+    --cor-principal: #ff0000 ;
+    --cor-secundaria: #ff0d0d; 
+    --cor-destaque: #ffffff;
     --cor-texto: #D7F9FF;
 
 }
